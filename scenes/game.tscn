@@ -184,7 +184,7 @@ tracks/0/keys = {
 
 [sub_resource type="Animation" id="Animation_lnu2h"]
 resource_name = "move"
-length = 2.0
+length = 5.0
 loop_mode = 2
 tracks/0/type = "value"
 tracks/0/imported = false
@@ -193,7 +193,7 @@ tracks/0/path = NodePath(".:position:x")
 tracks/0/interp = 2
 tracks/0/loop_wrap = true
 tracks/0/keys = {
-"times": PackedFloat32Array(0, 2),
+"times": PackedFloat32Array(0, 5),
 "transitions": PackedFloat32Array(1, 1),
 "update": 0,
 "values": [352.0, 544.0]
