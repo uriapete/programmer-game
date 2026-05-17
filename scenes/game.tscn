@@ -221,6 +221,7 @@ position = Vector2(352, 21)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="WideGapPlatform" unique_id=110479544]
 libraries/ = SubResource("AnimationLibrary_lbhrr")
+autoplay = &"move"
 
 [node name="Player" parent="." unique_id=523300591 instance=ExtResource("1_uwrxv")]
 
